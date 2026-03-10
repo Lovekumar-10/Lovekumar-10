@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MCA student<br>⚛️ Learning React & JavaScript<br>💻 Working on web projects [https://edugenieai.vercel.app/](https://map-frontend-mu.vercel.app/)<br>🤝 Open to collaboration <br>🧠 Exploring full-stack concepts <br>🚀 Learning by building real projects 
+🎓 MCA student<br>⚛️ Learning React & JavaScript<br>💻 Working on web projects [https://map-frontend-mu.vercel.app/](https://map-frontend-mu.vercel.app/)<br>🤝 Open to collaboration <br>🧠 Exploring full-stack concepts <br>🚀 Learning by building real projects 
 
 
 ## 🌐 Socials:
